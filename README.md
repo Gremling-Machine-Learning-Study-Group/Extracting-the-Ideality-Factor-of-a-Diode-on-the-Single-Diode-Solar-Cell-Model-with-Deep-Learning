@@ -1,0 +1,1 @@
+# Extracting-the-Ideality-Factor-of-a-Diode-on-the-Single-Diode-Solar-Cell-Model-with-Deep-Learning
